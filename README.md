@@ -1,7 +1,7 @@
 # Wine Quality
-This Project is done in response to Data Analyst Nanodegree Curriculam
+This Project is done in response to Udacity's Data Analyst Nanodegree Curriculam
 
-The data is obtained from UCI Machine Learning Repository
+The data is obtained from UCI Machine Learning Repository.
 For more information, please visit : https://archive.ics.uci.edu/ml/datasets/Wine+Quality
 
 Citation Request:
